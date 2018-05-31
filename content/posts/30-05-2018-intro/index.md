@@ -1,6 +1,6 @@
 ---
 title: "Hello to You!"
-cover: "./covers/wtc.jpg"
+cover: "/covers/wtc.jpg"
 date: "30/05/2018"
 category: "Intro"
 tags:
