@@ -36,6 +36,7 @@ export default class HTML extends React.Component {
           />
           {this.props.headComponents}
           <link rel="shortcut icon" href={favicon} />
+          <link key="icon" rel="icon" href={favicon} />
           {css}
         </head>
         <body>
