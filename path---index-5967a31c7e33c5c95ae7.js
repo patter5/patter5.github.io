@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{381:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{fields:{slug:"/hello-to-you"},excerpt:"Welcome to My Blog! Join me in my adventures breaking into the software industry as a non-trad recent\nCS grad.  I'll try to approach my…",timeToRead:1,frontmatter:{title:"Hello to You!",tags:["welcome"],cover:"./covers/wtc.jpg",date:"30/05/2018"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-5967a31c7e33c5c95ae7.js.map
