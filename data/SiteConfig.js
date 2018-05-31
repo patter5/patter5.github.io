@@ -17,7 +17,7 @@ module.exports = {
   userLocation: "Portland, Oregon", // User location to display in the author segment.
   userAvatar: "/logos/sp.jpg", // User avatar to display in the author segment.
   userDescription:
-    "Recent CS grad, language agnostic, pair/mob programming enthusiast. Software is made of people!", // User description to display in the author segment.
+    "Recent CS grad, language agnostic, TDD fan, pair/mob programming enthusiast.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
