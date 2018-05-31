@@ -13,7 +13,7 @@ module.exports = {
       feed_url: config.siteUrl + pathPrefix + config.siteRss,
       title: config.siteTitle,
       description: config.siteDescription,
-      image_url: `${config.siteUrl + pathPrefix}/logos/logo-512.png`,
+      image_url: `${config.siteUrl + pathPrefix}/logos/logo-48.png`,
       author: config.userName,
       copyright: config.copyright
     }
@@ -21,8 +21,8 @@ module.exports = {
   plugins: [
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-sass",
-    //"gatsby-transformer-sharp",
-    //"gatsby-plugin-sharp",
+    // "gatsby-transformer-sharp",
+    // "gatsby-plugin-sharp",
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -104,12 +104,12 @@ module.exports = {
         display: "minimal-ui",
         icons: [
           {
-            src: "/logos/logo-192.png",
-            sizes: "192x192",
+            src: "/logos/logo-48.png",
+            sizes: "48x48",
             type: "image/png"
           },
           {
-            src: "/logos/logo-512.png",
+            src: "/logos/logo-48.png",
             sizes: "512x512",
             type: "image/png"
           }

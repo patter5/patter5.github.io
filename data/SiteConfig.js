@@ -2,7 +2,7 @@ module.exports = {
   blogPostDir: "posts", // The name of directory that contains your posts.
   siteTitle: "Jeff Blog", // Site title.
   siteTitleAlt: "Jeff Blog", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
+  siteLogo: "/logos/logo-48.png", // Logo used for SEO and manifest.
   siteUrl: "https://patter5.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: true, // Whether the footer component is fixed, i.e. always visible
