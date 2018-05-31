@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{380:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{fields:{slug:"/welcome"},excerpt:"Hello to You! Join me in my adventures breaking into the software industry as a non-trad recent\nCS grad. I've been actively looking for a…",timeToRead:1,frontmatter:{title:"Welcome!",tags:["welcome"],cover:"/covers/wtc.jpg",date:"05/30/2018"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-5d155b6c9f85850858a8.js.map
