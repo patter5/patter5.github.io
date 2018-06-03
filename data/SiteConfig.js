@@ -5,7 +5,7 @@ module.exports = {
   siteLogo: "/logos/logo-48.png", // Logo used for SEO and manifest.
   siteUrl: "https://patter5.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
-  fixedFooter: true, // Whether the footer component is fixed, i.e. always visible
+  fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "A blog about career change and trials of a non-trad CS grad.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   // siteFBAppID: "1825356251115265", // FB Application ID for using app insights
