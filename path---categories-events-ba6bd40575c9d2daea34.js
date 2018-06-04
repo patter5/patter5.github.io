@@ -1,0 +1,2 @@
+webpackJsonp([0x7dff4b7ea4f0],{387:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/my-what-a-busy-week"},excerpt:"Top Pick of the Week: Women Who Code: DevOps Study Night: Scripting & Automation What: Getting hands-on with DevOps in a group that empowers…",timeToRead:2,frontmatter:{title:"My, What a Busy Week!",tags:["meetups","workshops"],cover:"/covers/sky.jpg",date:"06/03/2018"}}}]}},pathContext:{category:"events"}}}});
+//# sourceMappingURL=path---categories-events-ba6bd40575c9d2daea34.js.map
