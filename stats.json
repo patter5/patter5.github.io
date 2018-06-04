@@ -16,6 +16,10 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
+    "path---my-what-a-busy-week": [
+      "path---my-what-a-busy-week-489f8ff7f6fa8814feb9.js",
+      "path---my-what-a-busy-week-489f8ff7f6fa8814feb9.js.map"
+    ],
     "path---tags-hobbies": [
       "path---tags-hobbies-80d9418ffeb5451ad72a.js",
       "path---tags-hobbies-80d9418ffeb5451ad72a.js.map"
@@ -33,8 +37,8 @@
       "component---src-templates-category-jsx-689077ecff58f693a4c0.js.map"
     ],
     "path---index": [
-      "path---index-e933deb3c6e619154d42.js",
-      "path---index-e933deb3c6e619154d42.js.map"
+      "path---index-cdaed7a5bd2d7f93becb.js",
+      "path---index-cdaed7a5bd2d7f93becb.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-dddadb43de78d3cbd927.js",
@@ -70,10 +74,14 @@
       "component---src-pages-index-jsx-93b5a5ca7ecc18f112de.js",
       "component---src-pages-index-jsx-93b5a5ca7ecc18f112de.js.map"
     ],
+    "path---tags-workshops": [
+      "path---tags-workshops-a0870f4af4cf659dfec7.js",
+      "path---tags-workshops-a0870f4af4cf659dfec7.js.map"
+    ],
     "app": [
-      "app-14789073854f7b984c80.js",
+      "app-91d1744dab2a1e1ef0b8.js",
       "build-js-styles.css",
-      "app-14789073854f7b984c80.js.map",
+      "app-91d1744dab2a1e1ef0b8.js.map",
       "build-js-styles.css.map"
     ],
     "path---workspace-mirrors-hobby-space": [
@@ -83,6 +91,14 @@
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
       "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---categories-meetup-of-the-week": [
+      "path---categories-meetup-of-the-week-44fc270ff4e85dc13dc9.js",
+      "path---categories-meetup-of-the-week-44fc270ff4e85dc13dc9.js.map"
+    ],
+    "path---tags-meetups": [
+      "path---tags-meetups-44fcc13ad50ef8448fcb.js",
+      "path---tags-meetups-44fcc13ad50ef8448fcb.js.map"
     ],
     "path---welcome": [
       "path---welcome-6df6ed3da3e770791b66.js",
