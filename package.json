@@ -71,7 +71,7 @@
     "lint:md": "remark content/posts/",
     "write-good": "write-good $(glob 'content/posts/**/*.md')",
     "format:js": "prettier '**/*.{js,jsx}' --write",
-    "deploy": "gatsby build --prefix-paths && gh-pages -b master -d public"
+    "deploy": "npm run clean && npm run build:pp && gh-pages -b master -d public"
   },
   "remarkConfig": {
     "plugins": [
