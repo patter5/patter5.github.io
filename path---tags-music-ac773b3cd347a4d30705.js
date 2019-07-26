@@ -1,2 +1,0 @@
-webpackJsonp([0x6a0f12fa8f2b],{395:function(e,a){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/workspace-mirrors-hobby-space"},excerpt:"Adding a hobby space is the best thing I did for myself and my productivity. While I was in college, I had a professor who kept several…",timeToRead:1,frontmatter:{title:"Workspace Mirrors Hobby Space",tags:["hobbies","music"],cover:"/covers/work-space.jpg",date:"06/02/2018"}}}]}},pathContext:{tag:"music"}}}});
-//# sourceMappingURL=path---tags-music-ac773b3cd347a4d30705.js.map
