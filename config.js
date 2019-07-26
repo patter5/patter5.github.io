@@ -2,12 +2,12 @@ module.exports = {
   siteTitle: 'Jeff Patterson', // <title>
   manifestName: 'Eventually',
   manifestShortName: 'Landing', // max 12 characters
-  manifestStartUrl: '/',
+  manifestStartUrl: 'https://patter5.github.io',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  //pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   // social
   heading: 'Jeff Patterson',
   subHeading:
@@ -16,7 +16,7 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/jpatterson-jama',
     },
     {
       icon: 'fa-twitter',
